@@ -25,6 +25,7 @@ number_responses = 1  # Set to 1 for testing; adjust as needed
 # Load variables from .env file
 load_dotenv()
 
+# Set API key to the environment variable
 api_key = os.getenv("OPENAI_API_KEY")
 
 openai.api_key = api_key
@@ -33,7 +34,8 @@ openai.api_key = api_key
 TEMPERATURE = 0.7
 
 # Directory with CSV files
-csv_directory = "/Users/nickallen/Projects/LLM_Bias_HSS/Nick_LLM_Prompts"
+csv_directory = "/Users/nickallen/Documents/GitHub/HSS_LLM_Bias"
+
 
 # The name of the JSON file we will save
 output_json_filename = "chatGPT_responses.json"
@@ -49,14 +51,14 @@ def queryLLM(prompt, model="gpt-4", temperature=0.7, max_tokens=100, retries=3, 
     """
     for attempt in range(retries):
         try:
-            response = openai.ChatCompletion.create(
+            response = openai.chat.completions.create(
                 model=model,
                 messages=[{"role": "user", "content": prompt}],
                 max_tokens=max_tokens,
                 temperature=temperature,
-                request_timeout=timeout  # Increase timeout to allow more time for a response
+                timeout=timeout  # Increase timeout to allow more time for a response
             )
-            return response.choices[0].message["content"].strip()
+            return response.choices[0].message.content.strip()
         except Exception as e:
             print(f"Attempt {attempt+1} failed: {e}")
             if attempt < retries - 1:
@@ -81,8 +83,7 @@ csv_files = [f for f in os.listdir(csv_directory) if f.endswith('.csv')]
 # Nested dictionary for storing everything
 dataframes_dict = {
     "Eval_Manage": {},
-    "Diagnosis": {},
-    "LLM": LLM_Used
+    "Diagnosis": {}
 }
 
 for file_name in csv_files:
@@ -108,6 +109,7 @@ for file_name in csv_files:
             for i, original_prompt in enumerate(df["Prompt"]):
                 new_prompt = replace_brackets_with_group(original_prompt, group)
                 dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
+                print(f"Getting LLM responses for : Eval and Manage, {key_name}, {group}, number {i}. \nPrompt : \n{new_prompt} \n")
                 for _ in range(number_responses) : 
                     response = queryLLM(
                         new_prompt,
@@ -133,6 +135,7 @@ for file_name in csv_files:
             for i, original_prompt in enumerate(df["Prompt"]):
                 new_prompt = replace_brackets_with_group(original_prompt, group)
                 dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
+                print(f"Getting LLM responses for : Diagnosis, {key_name}, {group}. \nPrompt : \n{new_prompt} \n")
                 for _ in range(number_responses) : 
                     response = queryLLM(
                         new_prompt,
@@ -148,6 +151,7 @@ for file_name in csv_files:
 # ---------------------------------------------
 
 output_data = {
+    "LLM": LLM_Used,
     "Eval_Manage": {},
     "Diagnosis": {}
 }
