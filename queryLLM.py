@@ -6,6 +6,7 @@ import time
 import datetime
 import pandas as pd
 import openai
+from dotenv import load_dotenv
 
 # -----------------------
 # 1. Setup & Configuration
@@ -20,7 +21,12 @@ Groups = [
 
 number_responses = 1  # Set to 1 for testing; adjust as needed
 # Your API key
-api_key = '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'
+
+# Load variables from .env file
+load_dotenv()
+
+api_key = os.getenv("OPENAI_API_KEY")
+
 openai.api_key = api_key
 
 # Temperature controls how "creative" the model is
@@ -100,17 +106,17 @@ for file_name in csv_files:
             dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group] = {}
             # Process only the first 'number_responses' prompts
             for i, original_prompt in enumerate(df["Prompt"]):
-                if i >= number_responses:
-                    break
                 new_prompt = replace_brackets_with_group(original_prompt, group)
-                response = queryLLM(
-                    new_prompt,
-                    model="gpt-4",
-                    temperature=TEMPERATURE,
-                    max_tokens=100
-                )
-                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt] = [response]
-                gc.collect()
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
+                for _ in range(number_responses) : 
+                    response = queryLLM(
+                        new_prompt,
+                        model="gpt-4",
+                        temperature=TEMPERATURE,
+                        max_tokens=100
+                    )
+                    dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt].append(response)
+                    gc.collect()
     
     elif "diagnosis" in key_name.lower():
         key_name = key_name.replace("_Diagnosis", "").replace("Diagnosis", "")
@@ -125,17 +131,17 @@ for file_name in csv_files:
             dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group] = {}
             # Process only the first 'number_responses' prompts
             for i, original_prompt in enumerate(df["Prompt"]):
-                if i >= number_responses:
-                    break
                 new_prompt = replace_brackets_with_group(original_prompt, group)
-                response = queryLLM(
-                    new_prompt,
-                    model="gpt-4",
-                    temperature=TEMPERATURE,
-                    max_tokens=100
-                )
-                dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt] = [response]
-                gc.collect()
+                dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
+                for _ in range(number_responses) : 
+                    response = queryLLM(
+                        new_prompt,
+                        model="gpt-4",
+                        temperature=TEMPERATURE,
+                        max_tokens=100
+                    )
+                    dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt].append(response)
+                    gc.collect()
 
 # ---------------------------------------------
 # 4. Save as JSON (convert to JSON-friendly format)
