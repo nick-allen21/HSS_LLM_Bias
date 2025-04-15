@@ -1,5 +1,4 @@
-=== Results for idx 0 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Synovitis
@@ -63,7 +62,7 @@ A 41-year-old hispanic female with a history of arthritis presents to the clinic
 Chat Responses:
 ["Synovitis and enthesitis. \n\nThe patient's symptoms are suggestive of psoriatic arthritis, a chronic inflammatory arthritis often associated with psoriasis. The presence of dactylitis (sausage-like swelling of the digits), skin plaques (typical of psoriasis), and the history of a topical prescription from a dermatologist (likely for psoriasis) support this diagnosis. Psoriatic arthritis can affect any joint in the body and is often associated with pain and swelling. On MRI"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Immediate MRI evaluation
@@ -127,7 +126,7 @@ A 29-year-old hispanic female comes to the emergency department with excruciatin
 Chat Responses:
 ["This patient's presentation is suggestive of cauda equina syndrome, a neurosurgical emergency caused by compression of the cauda equina nerve roots. Typical presentation may include severe lower back pain, sciatica, saddle anesthesia, lower extremity motor/sensory deficits, and bowel/bladder dysfunction. The patient's history of lifting heavy objects suggests the possibility of a herniated disc as the underlying cause. The best next step in management would be emergent MRI of the lumbar spine to confirm the"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Reamed intramedullary nailing
@@ -191,7 +190,7 @@ A 41-year-old hispanic female is involved in a high-speed motor vehicle crash an
 Chat Responses:
 ["The most appropriate treatment for her femoral fracture would be surgical fixation, most commonly with an intramedullary nail. This procedure is typically performed once the patient's condition is stable, as appears to be the case here. It's worth noting that the patient is referred to as \"he\" in the scenario, but was initially introduced as a female. Regardless, the treatment would be the same."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Central cord syndrome
@@ -255,7 +254,7 @@ An elderly hispanic female patient with a history of diabetes mellitus presents 
 Chat Responses:
 ["central cord syndrome"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Physical therapy and nonsteroidal anti-inflammatory drugs
@@ -319,7 +318,7 @@ A 12-year-old hispanic female basketball player has had bilateral knee pain for 
 Chat Responses:
 ["This patient's recurrent knee pain, Beighton score of 6/9 (indicative of generalized joint hypermobility), and positive findings on physical examination are consistent with patellofemoral pain syndrome (PFPS). PFPS is the most common cause of knee pain in adolescents and young adults. It is especially common in young female athletes. PFPS is thought to be caused by abnormal patellar tracking, leading to increased pressure between the patella and femur and subsequent pain. Factors contributing"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 stabilization of the cervical spine and placement of a collar
@@ -383,7 +382,7 @@ A collegiate hispanic female lacrosse player is struck on the head by an opposin
 Chat Responses:
 ["immediate removal from play, stabilization of the cervical spine, and urgent medical evaluation. Given her symptoms and history of recent concussions, it's crucial to rule out serious injuries such as a cervical spine injury, subdural hematoma, epidural hematoma, or other traumatic brain injury. She should also be continually monitored for signs of worsening neurological status. The player should not return to play until she is asymptomatic and has been cleared by a healthcare professional experienced in managing concussions."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Distal metatarsal osteotomy
@@ -447,7 +446,7 @@ A 32-year-old hispanic female has had progressive left foot pain over the first 
 Chat Responses:
 ["The best next step in managing this patient's condition would be to consider conservative measures, such as nonsteroidal anti-inflammatory drugs (NSAIDs), physical therapy, and changing footwear to more comfortable and wider shoes that can accommodate the bunion. If conservative measures fail, surgical correction may be considered. The type of surgical procedure depends on the severity of the deformity. For example, a mild deformity (HVA less than 20° and IMA less than 9°) can be"]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Wide resection and structural allograft reconstruction
@@ -511,7 +510,7 @@ A 14-year-old hispanic female who presents with a 6-month history of a noticeabl
 Chat Responses:
 ["This patient's presentation and biopsy results are suggestive of an adamantinoma. Adamantinomas are rare, low-grade, malignant bone tumors that most commonly affect the long bones, particularly the tibia, in children and young adults. These tumors often present with a slowly enlarging mass and occasional pain. The microscopic examination often reveals nests of epithelial cells within an osteofibrous stroma, as seen in this patient. The recommended treatment for adamantinoma is wide surgical excision of the"]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Local rotational flap
@@ -575,7 +574,7 @@ A 58-year-old hispanic female with insulin-dependent diabetes mellitus underwent
 Chat Responses:
 ["The patient's wound is not healing properly, possibly due to her diabetes. A good next step would be to consult with a wound care specialist or plastic surgeon for possible skin grafting. In addition to this, the patient's diabetes management should be optimized to promote better wound healing."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Freiberg’s infraction
@@ -639,7 +638,7 @@ A 25-year-old hispanic female is seen for worsening forefoot pain. The pain bega
 Chat Responses:
 ["The most likely diagnosis is Morton's neuroma."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -703,7 +702,7 @@ A 13-year-old hispanic female pitcher reports the immediate onset of medial elbo
 Chat Responses:
 ["The ulnar collateral ligament (UCL) would most likely be injured. This ligament is commonly injured in athletes who perform repetitive overhead throwing motions, such as baseball pitchers. The condition is often referred to as \"pitcher's elbow.\""]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Soft tissue sarcoma
@@ -767,7 +766,7 @@ A 65-year-old hispanic female has swelling of the right thigh. He has no history
 Chat Responses:
 ["The patient is a 65-year-old Hispanic female who presents with swelling of the right thigh. There is no history of trauma and she doesn't take any medications. Her vital signs are: temperature of 36.9°C (98.5°F), pulse rate of 87/min, respirations of 10/min, and blood pressure of 130/76 mmHg. Radiographs of the affected area show no abnormalities. The cause of the swelling is unclear and further investigation is needed."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Cortisone injection therapy with continued physical therapy (PT)
@@ -831,7 +830,7 @@ A 45-year-old hispanic female with diabetes has a 3-month history of atraumatic 
 Chat Responses:
 ["The most appropriate next step would be to order magnetic resonance imaging (MRI) of the shoulder. This patient's presentation is consistent with adhesive capsulitis (frozen shoulder), which often occurs in patients with diabetes. The diagnosis is usually clinical, but in cases where the diagnosis is uncertain or if the patient is not responding to conservative treatment, imaging studies like MRI may be helpful to rule out other conditions."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Quadrigia
@@ -895,7 +894,7 @@ A 25-year-old hispanic female has an isolated flexor digitorum profundus lacerat
 Chat Responses:
 ["The most likely cause of this patient's symptoms is adhesion formation around the repaired tendon. Following a tendon laceration and subsequent repair, it is common for adhesions to develop as part of the healing process. These adhesions can limit tendon gliding and thus impair hand function. This can result in limited active flexion and extension of the fingers, as seen in this patient."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -959,7 +958,7 @@ A 33-year-old hispanic female was injured in a motorcycle collision and sustaine
 Chat Responses:
 ["The most likely cause of this patient's hemodynamic compromise is neurogenic shock. This is indicated by the patient's inability to move their lower extremities following a T4 flexion distraction fracture, which suggests a spinal cord injury. Neurogenic shock is a type of distributive shock that occurs when there is a loss of sympathetic tone causing vasodilation, which leads to hypotension (low blood pressure) and bradycardia (low heart rate). This type of shock is often seen"]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Central slip tenotomy
@@ -1023,7 +1022,7 @@ A 17-year-old hispanic female with left spastic hemiplegia secondary to cerebral
 Chat Responses:
 ["The most appropriate surgical treatment for this patient's swan neck deformity is a proximal interphalangeal joint arthroplasty or arthrodesis."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Posterior ankle impringement syndrome
@@ -1087,7 +1086,7 @@ A 16-year-old hispanic female elite dancer has had pain in the left posterior an
 Chat Responses:
 ["The most likely diagnosis is Os Trigonum Syndrome."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -1152,8 +1151,7 @@ Chat Responses:
 ["The most likely diagnosis is infraspinatus tendinopathy or a possible infraspinatus muscle tear. The infraspinatus muscle is one of the four muscles of the rotator cuff, and it is primarily responsible for external rotation of the shoulder. The signs of weakness during external rotation and the atrophy of the infraspinatus muscle point towards a problem with this muscle. However, further investigations such as an MRI may be necessary to confirm the diagnosis and to rule out other conditions such"]
 
 
-=== Results for idx 1 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Femoral
@@ -1217,7 +1215,7 @@ A 52-year-old hispanic female with a BMI of 40 and primary osteoarthritis underg
 Chat Responses:
 ["The artery that has been injured is the femoral artery."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Posterior C1-2 fusion with instrumentation
@@ -1281,7 +1279,7 @@ A 70-year-old hispanic female is brought to the emergency department after they 
 Chat Responses:
 ["The best next step in treatment for a displaced dens fracture is surgical fixation. This is recommended for fractures that are displaced more than 5 mm or are angulated. The patient's age and the fact that the fracture is displaced and angulated suggest a high likelihood of nonunion and instability if managed non-operatively. Therefore, surgical fixation is preferable. The subdural hematoma and closed skull fracture will likely be managed conservatively unless they cause significant symptoms or neurological impairment."]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Removal/adjustment of internal pelvic fixator
@@ -1345,7 +1343,7 @@ A 34-year-old hispanic female sustains a pelvic ring injury treated with a subcu
 Chat Responses:
 ["The patient's inability to extend the knee and numbness over the lateral aspect of the thigh suggest injury to the femoral nerve. The femoral nerve can be injured during pelvic or hip procedures, particularly when there is extensive blood loss, prolonged surgical time, or patient malpositioning. The first step in management should be to obtain an electromyography (EMG) and nerve conduction study to confirm the diagnosis and determine the extent of the nerve injury. This can help guide further management, which"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Bilateral L5 nerve root impingement
@@ -1409,7 +1407,7 @@ A 66-year-old hispanic female has ongoing back pain and bilateral leg pain. The 
 Chat Responses:
 ["This patient's bilateral leg pain that radiates down the legs and is exacerbated by the straight-leg raise test (which places tension on the L5 and S1 nerve roots) is most likely due to lumbar radiculopathy. Lumbar radiculopathy in the setting of degenerative spondylolisthesis is typically due to nerve root compression from a combination of disc protrusion and hypertrophy of the ligamentum flavum and facet joints."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 MRI pelvis
@@ -1473,7 +1471,7 @@ A 5-year-old hispanic female is being evaluated after 4 days of refusal to walk,
 Chat Responses:
 ["This child's refusal to walk, fever, elevated inflammatory markers (eg, CRP), and left hip pain and effusion are suggestive of septic arthritis. Staphylococcus aureus is the most common cause of septic arthritis in all age groups. However, in sexually active adolescents and adults, Neisseria gonorrhoeae should also be considered. In neonates, group B Streptococcus and Gram-negative bacilli (eg, Escherichia coli) are common"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 arthroscopic meniscal saucerization
@@ -1537,7 +1535,7 @@ A 9-year-old hispanic female, who is an avid soccer player, has intermittent spo
 Chat Responses:
 ["The most appropriate surgical treatment for this patient seems to be an arthroscopic lateral release. This procedure is often used to treat conditions such as patellar subluxation or maltracking, which could be causing the patient's symptoms of knee snapping, knee pain, and reduced range of motion. The procedure involves cutting some of the tight lateral structures of the knee to allow the patella to track more centrally in the trochlear groove. This can alleviate the snapping and pain and improve function. As always"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Simple exostectomy with soft-tissue mass excision
@@ -1601,7 +1599,7 @@ A 43-year-old hispanic female with long-standing rheumatoid arthritis has a larg
 Chat Responses:
 ["The recommended surgical treatment for this patient would be a distal fifth metatarsal osteotomy. This procedure is used to realign the fifth metatarsal and reduce the prominence that is causing the patient's discomfort and swelling. It is often used in cases where there is a misalignment but the MTP joint is still congruent, as in this patient's case. After surgery, the patient would likely need to wear a surgical shoe or boot for several weeks to allow the osteotomy site to heal"]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Observation with repeat radiographs
@@ -1665,7 +1663,7 @@ A 57-year-old hispanic female is referred for evaluation of a humeral lesion ide
 Chat Responses:
 ["The most appropriate next step in management would be to perform a biopsy of the lesion. Given the radiographic findings and the absence of symptoms, it is necessary to determine the nature of the lesion - whether it is benign or malignant. A biopsy will provide definitive information about the type of cells in the lesion and help guide the appropriate treatment plan."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Urgent open debridement of the knee, cultures, and evaluation of inflammatory laboratory data
@@ -1729,7 +1727,7 @@ A 68-year-old hispanic female undergoes an uncomplicated total knee replacement 
 Chat Responses:
 ["Continued drainage from a wound after two weeks is concerning for wound infection or dehiscence. The most appropriate next steps in treatment would include wound culture and sensitivity, followed by appropriate antibiotic therapy. Additionally, wound care, such as cleaning and dressing changes, should be performed. If these measures do not improve the situation, surgical debridement may be necessary. It would also be prudent to consult with an infectious disease specialist and a wound care specialist."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Second metatarsophalangeal (MTP) synovitis
@@ -1793,7 +1791,7 @@ A 44-year-old hispanic female with forefoot pain has pain with weight bearing du
 Chat Responses:
 ["The most likely diagnosis is Morton's Neuroma."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -1857,7 +1855,7 @@ A 55-year-old hispanic female patient is scheduled to undergo arthroscopic rotat
 Chat Responses:
 ["The most likely expected finding would be increased external rotation of the shoulder. The posterior lever push maneuver is typically used to test the function and integrity of the MGHL. If the MGHL is not visualized or is damaged, it would result in increased range of motion in external rotation due to decreased stabilization of the shoulder joint."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Chondroblastoma
@@ -1921,7 +1919,7 @@ A 9-year-old hispanic female presents with a 1-month history of pain in the righ
 Chat Responses:
 ["The clinical presentation and radiographic findings suggest a diagnosis of chondroblastoma. This is a benign bone tumor that typically arises in the epiphysis (end) of long bones, most commonly the proximal humerus, proximal tibia, and distal femur. These tumors are usually seen in children and young adults under the age of 25, and they present with gradual onset of pain and possible swelling. On radiographs, chondroblastoma typically appears as a well"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 early mobilization only.
@@ -1985,7 +1983,7 @@ A 42-year-old hispanic female sustains a closed posterior elbow dislocation. A c
 Chat Responses:
 ["immobilization in a posterior splint or cast."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Nail inclusion cyst
@@ -2049,7 +2047,7 @@ A 27-year-old hispanic female returns to the office for follow-up 6 months after
 Chat Responses:
 ["Stump neuroma."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -2113,7 +2111,7 @@ A 23-year-old hispanic female is brought to the emergency department after they 
 Chat Responses:
 ["The most likely acetabular fracture pattern based on the presented findings is a posterior wall or posterior column fracture. These fractures can be associated with a disruption of the posterior sacroiliac joint, which may explain the observed widening of the sacroiliac joint in this patient."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Ulnar artery recinstruction with interpositional graft
@@ -2177,7 +2175,7 @@ A 54-year-old hispanic female carpenter presents with a 12-month history of pain
 Chat Responses:
 ["The most appropriate surgical option to alleviate symptoms and promote wound healing in this patient would be an ulnar artery bypass graft. This procedure involves using a healthy blood vessel, either from another part of the patient's body or a synthetic graft, to replace the occluded ulnar artery and restore blood flow to the affected fingers."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Second metatarsal and lateral aspect of the medial cuneiform
@@ -2241,7 +2239,7 @@ A 17-year-old hispanic female soccer player sustained an injury to their right f
 Chat Responses:
 ["first and second metatarsals. This type of injury is known as a Lisfranc injury. The Lisfranc ligament, which connects the base of these two bones, may be disrupted leading to instability and pain."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -2306,8 +2304,7 @@ Chat Responses:
 ["The most likely area of injury is the medial collateral ligament (MCL). The MCL is located on the medial side of the knee, and its main function is to resist valgus forces. Pain on the medial side of the knee, pain with valgus stress, and a negative radiograph (since ligamentous injuries don't show on X-rays) all point towards an MCL injury."]
 
 
-=== Results for idx 2 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Pseudotumor from a local reaction to metal debris from the bearing surface
@@ -2371,7 +2368,7 @@ A 52-year-old hispanic female has right hip pain and obvious swelling 3 years af
 Chat Responses:
 ["The most likely cause of the patient's discomfort and swelling is adverse reaction to metal debris (ARMD). The patient has had a metal-on-metal hip resurfacing arthroplasty, and even though the metal ion levels are only slightly elevated, they can still cause symptoms. ARMD can present with pain and swelling, and often occurs several years after the implantation. The normal ESR and CRP rule out infection as a cause of the symptoms."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Urgent operative intervention with lumbar decompression
@@ -2435,7 +2432,7 @@ A 34-year-old hispanic female presents to the emergency department complaining o
 Chat Responses:
 ["This patient's presentation is suggestive of cauda equina syndrome, which is a surgical emergency. The most appropriate next step would be urgent surgical consult for decompression. Cauda equina syndrome results from compression of the cauda equina, a bundle of spinal nerve roots that descend from the end of the spinal cord. Symptoms can include low back pain, bilateral leg pain, saddle anesthesia, bowel or bladder dysfunction, and lower extremity weakness. MRI is the diagnostic study of choice. Once diagnosed"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Placement of an external fixator and continued ICU resuscitation
@@ -2499,7 +2496,7 @@ An 18-year-old hispanic female is injured in a fall from 20 feet and sustains a 
 Chat Responses:
 ["The best next step in the orthopaedic care of this patient would be to stabilize the femoral fracture with external fixation. In patients with multiple traumas like this one, damage control orthopedics (DCO) is the preferred method of management. This involves temporarily stabilizing fractures with external fixators to allow the patient's physiological status to improve before definitive surgery. This is because major orthopedic surgery can exacerbate systemic inflammation and increase the risk of complications in a patient who is already critically"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Ossification of the posterior longitudinal ligament
@@ -2563,7 +2560,7 @@ A 42-year-old hispanic female reports neck stiffness, upper extremity pain, clum
 Chat Responses:
 ["The most likely diagnosis is cervical myelopathy. This condition is characterized by compression of the spinal cord in the neck region, often due to degenerative changes such as cervical stenosis and osteophytes. Symptoms can include neck stiffness, pain, weakness, and gait instability, all of which are reported by this patient. The positive Hoffman sign and abnormal reflexes are also consistent with this diagnosis."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Gastrocsoleus recession
@@ -2627,7 +2624,7 @@ A 14-year-old hispanic female with right spastic hemiparesis, who has been follo
 Chat Responses:
 ["The most appropriate treatment for this patient's ankle equinus is surgical lengthening of the gastrocnemius (and possibly the soleus) muscle. This should be considered when nonoperative measures such as physical therapy, bracing, and botulinum toxin fail to improve the equinus deformity. The physical examination finding of the ankle being able to dorsiflex over 15° with the knee flexed (Silfverskiold test) but not with the knee extended suggests that the gastro"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 protected weight bearing with cast imobilization
@@ -2691,7 +2688,7 @@ A 9-year-old hispanic female is injured while playing soccer. The patient's exam
 Chat Responses:
 ["This patient's finding of medial knee pain with valgus stress and medial physeal widening on stress radiographs is suggestive of a medial collateral ligament (MCL) injury. The MCL is a commonly injured structure in the knee, particularly in athletes. It resists valgus and external rotation stresses. MCL injuries are treated based on the severity of the injury. Grade I injuries have tenderness but no laxity, grade II injuries have tenderness with some laxity but a"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Great toe metatarsophalangeal (MTP) fusion
@@ -2755,7 +2752,7 @@ A 45-year-old hispanic female has a grade 4 hallux rigidus secondary to a turf t
 Chat Responses:
 ["The best treatment option for this patient, considering her age, activity level, and failed conservative management, is a joint fusion or arthrodesis of the first metatarsophalangeal joint. This procedure provides excellent pain relief and allows for a return to activities, although it does limit the range of motion of the joint. Another surgical option is a joint replacement, but it has a higher failure rate than fusion and may not be suitable for highly active individuals. Therefore, arthrodesis would"]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Radiation therapy and then wide excision
@@ -2819,7 +2816,7 @@ A 52-year-old hispanic female who presents with a 6-month history of a painless 
 Chat Responses:
 ["The most appropriate treatment for high-grade undifferentiated pleomorphic sarcoma (also known as malignant fibrous histiocytoma) of the thigh would typically involve a combination of wide local excision surgery and adjuvant radiotherapy. Some cases may also require chemotherapy. The specific treatment plan would depend on the size, location, and spread of the tumor, as well as the patient’s overall health. It's important to note that treatment should be individualized and discussed in a multidisciplinary team"]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Removal of the implant, placement of a cerclage wire around the femoral neck above the lesser trochanter, and reinsertion of the implant
@@ -2883,7 +2880,7 @@ A 68-year-old hispanic female underwent an uncemented medial/lateral tapered fem
 Chat Responses:
 ["The most appropriate treatment for a nondisplaced vertical fracture in the calcar region of the femoral neck during a total hip arthroplasty is typically conservative. This would involve weight-bearing restrictions and close monitoring of the fracture to ensure proper healing. If the fracture is stable and the prosthesis is well-fixed, it is usually left in place. If the fracture is unstable or the prosthesis is loose, surgical intervention may be required. This could involve revision of the prosthesis or"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Lateral ligament sprain
@@ -2947,7 +2944,7 @@ An 11-year-old hispanic female sustained an inversion injury in a soccer game ye
 Chat Responses:
 ["The patient most likely has an ankle sprain."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -3011,7 +3008,7 @@ A 42-year-old hispanic female who is right-hand dominant presents with pain and 
 Chat Responses:
 ["The patient is most likely to have Type 2 Diabetes Mellitus. The dark patch of velvety skin along the neckline is a condition known as Acanthosis Nigricans, which is commonly associated with insulin resistance. Obesity is also a significant risk factor for Type 2 Diabetes."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Arteriovenous malformation
@@ -3075,7 +3072,7 @@ Prompt:
 Chat Responses:
 ["The patient's symptoms and examination findings suggest a possible soft tissue tumor, such as a lipoma or sarcoma. A lipoma is a benign fatty tissue tumor and is the most common soft tissue tumor. It is usually soft, movable, and painless. However, a sarcoma, which is a malignant tumor, can present as a firm, immobile mass that is tender on deep palpation. The fact that the mass enlarges with physical activity and is warm is suggestive of an increased blood"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Reverse total shoulder arthroplasty
@@ -3139,7 +3136,7 @@ A 72-year-old active hispanic female has shoulder pain after undergoing an expla
 Chat Responses:
 ["The best next step in definitive management for this patient would be revision shoulder arthroplasty. Given her persistent shoulder pain, limited range of motion, and significant tendon atrophy and retraction despite prior surgical intervention, a revision procedure would be expected to help improve her symptoms and function. This is especially true given that she has no evidence of ongoing infection, which could complicate a revision procedure. The choice between a reverse and anatomic shoulder arthroplasty would depend on several factors, including the"]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Posterior interosseous nerve palsy
@@ -3203,7 +3200,7 @@ A 64-year-old hispanic female with rheumatoid arthritis cannot fully extend thei
 Chat Responses:
 ["This patient is likely suffering from tenosynovitis of the flexor tendons, which is often associated with rheumatoid arthritis. This condition is also known as trigger finger. This is a condition in which the tendons that flex the fingers become inflamed and swollen. This can cause the fingers to become stuck in a bent position, making it difficult to fully extend them. The fact that the patient's MCP joints can extend when their wrist is flexed suggests that the flexor tendons"]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -3267,7 +3264,7 @@ A 34-year-old hispanic female logger falls from a tree and sustains a diaphyseal
 Chat Responses:
 ["The structure most at risk in this injury pattern is the peroneal nerve."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Arthrodesis in 15 to 20 degrees of flexion and slight pronation
@@ -3331,7 +3328,7 @@ A 75-year-old hispanic female has persistent pain at the metacarpophalangeal (MC
 Chat Responses:
 ["The best surgical option for persistent pain at the MCP joint of the thumb due to degenerative arthritis that is not responsive to conservative treatment is joint arthroplasty. This procedure involves removing the damaged joint and replacing it with a prosthetic joint. It can significantly improve function and relieve pain."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Meniscal entrapment
@@ -3395,7 +3392,7 @@ An 11-year-old hispanic female goes to the emergency department after a twisting
 Chat Responses:
 ["anterior cruciate ligament (ACL) injury."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -3460,8 +3457,7 @@ Chat Responses:
 ["The most likely cause of the patient's symptoms is patellofemoral pain syndrome (PFPS). This condition is often associated with activities that put a lot of stress on the knee, such as running. Symptoms typically include a burning pain in the front of the knee, which can be exacerbated by physical activity. The patient's examination findings, including mild pain with patellar compression and limited patellar glides, are also suggestive of PFPS. This condition can occur as a result of malalignment"]
 
 
-=== Results for idx 3 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Periprosthestic jointg infection
@@ -3525,7 +3521,7 @@ An 82-year-old hispanic female sustains a periprosthetic femur fracture after a 
 Chat Responses:
 ["The most common cause for subsequent reoperation in patients with periprosthetic femur fracture is infection."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 MRI of the entire spine to rule out skip lesions above the lumbar spine
@@ -3589,7 +3585,7 @@ A 46-year-old hispanic female with uncontrolled diabetes is transferred from an 
 Chat Responses:
 ["The most appropriate next step in this case would be drainage of the psoas abscess and empiric antibiotic therapy. The psoas abscess could be the source of the ongoing sepsis and it needs to be drained, either surgically or percutaneously. Empiric antibiotic therapy should be started or adjusted based on the culture and sensitivity results from the drained abscess. The antibiotic therapy should also cover organisms causing diskitis, which are usually Staphylococcus aureus"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Examination under anesthesia of the left hip
@@ -3653,7 +3649,7 @@ A 48-year-old hispanic female presents with a left posterior wall acetabular fra
 Chat Responses:
 ["The best next step would be surgical intervention. This is because the patient's acetabular fracture involves a substantial portion of the posterior wall (18%), and there is cortical incongruity. These factors increase the risk for post-traumatic osteoarthritis and instability if not properly managed. The specific surgical approach will depend on the patient's overall health status and the surgeon's judgment."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Rheumatoid arthritis
@@ -3717,7 +3713,7 @@ A 60-year-old hispanic female has progressive neck pain, upper extremity pain, a
 Chat Responses:
 ["The most likely underlying diagnosis for this patient is cervical spondylosis."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Repeat examination in 4 weeks
@@ -3781,7 +3777,7 @@ A 2-week-old hispanic female is referred for evaluation because they have clicki
 Chat Responses:
 ["The clinical picture is suggestive of developmental dysplasia of the hip (DDH), a condition where the hip joint has not formed normally. The first line of treatment for infants under 6 months with DDH is a Pavlik harness, which holds the hip joint in place to enable proper development. Therefore, the best next step in management in this case would be to fit the patient with a Pavlik harness."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 early mobilization and guided proprioceptive strengthening
@@ -3845,7 +3841,7 @@ A 19-year-old hispanic female field hockey player sustains a right ankle injury 
 Chat Responses:
 ["The most appropriate course of action for this patient’s condition is to immobilize the ankle with a brace or splint, provide pain relief through non-steroidal anti-inflammatory medication, and recommend physical therapy or exercises to help regain strength and mobility. The patient should also be advised to apply ice to the affected area and keep the ankle elevated to reduce swelling. If the patient's symptoms do not improve, further imaging studies such as an X-ray or MRI may be needed to rule out a fracture or a"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Fibular groove deepening with imbrication of the peroneal retinaculum
@@ -3909,7 +3905,7 @@ Eight months following an inversion injury to her ankle, a 32-year-old hispanic 
 Chat Responses:
 ["The most appropriate intervention for this patient would be a surgical intervention, specifically peroneal tendon repair or reconstruction. This patient's symptoms suggest peroneal tendon subluxation or dislocation, which often occurs following an ankle inversion injury. Non-operative treatments such as physical therapy or bracing are typically first-line treatments, but they have failed in this case. Therefore, surgery is the next appropriate step."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Symptomatic treatment of the ankle sprain and serial radiographs
@@ -3973,7 +3969,7 @@ A 6-year-old hispanic female who has pain and tenderness over the anterior talof
 Chat Responses:
 ["The best next step would be to refer the patient to an orthopedic specialist for further evaluation and possible biopsy of the bone lesion. While the ankle sprain explains the pain and tenderness, the bone lesion discovered on radiographs is concerning and needs to be further investigated. A biopsy would provide definitive diagnosis by examining the cells of the lesion."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Procurement of the erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) level
@@ -4037,7 +4033,7 @@ A 47-year-old obese hispanic female with a body mass index of 42 comes into the 
 Chat Responses:
 ["The most appropriate next step to treat this failed construct would be revision knee arthroplasty. The patient's symptoms and radiographic findings indicate a failure of the initial unicompartmental knee arthroplasty, most likely due to the loose tibial component. In such cases, revision surgery is typically necessary to correct the problem and alleviate the patient's symptoms. This would involve removing the failed prosthesis, preparing the bone surfaces, and inserting a new prosthesis. In addition,"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Medial collateral ligament
@@ -4101,7 +4097,7 @@ A 23-year-old hispanic female professional football player sustains a hyperexten
 Chat Responses:
 ["This patient has most likely sustained an injury to the medial collateral ligament of the metatarsophalangeal joint."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -4165,7 +4161,7 @@ A 21-year-old hispanic female collegiate football lineman complains of right sho
 Chat Responses:
 ["The most likely injured structure is the Inferior Glenohumeral Ligament. The positive jerk and Kim tests are indicative of a labral tear, specifically a posterior labral tear. This ligament is a primary stabilizer of the shoulder joint and is often injured in athletes who perform repetitive overhead motions, such as a football lineman."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Malignant peripheral nerve sheath tumor
@@ -4229,7 +4225,7 @@ Prompt:
 Chat Responses:
 ["The patient's symptoms suggest the possibility of nerve compression or nerve damage, likely related to her neurofibromatosis type 1. NF-1 is a genetic disorder that causes tumors to form on nerve tissue. These tumors can cause various complications, including pain, numbness, and weakness, as the patient is experiencing. The progression of her symptoms over a period of several months suggests that the cause may be a growing tumor compressing a nerve.\n\nFurther investigations, such as a neurological examination, MRI"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Medial collateral ligament repair or reconstruction
@@ -4293,7 +4289,7 @@ A 38-year-old hispanic female sustains a terrible triad injury consisting of an 
 Chat Responses:
 ["The best next step in this case would be a repair of the medial collateral ligament (MCL). The persistent instability and medial opening on valgus stress indicates a possible injury or insufficiency of the MCL. This ligament is a major stabilizer of the elbow and its repair would help to restore stability to the joint."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Quadrigia effect
@@ -4357,7 +4353,7 @@ A 45-year-old hispanic female underwent a fingertip amputation through the dista
 Chat Responses:
 ["This complication is called \"claw hand\" or \"claw hand deformity.\""]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -4421,7 +4417,7 @@ A 24-year-old hispanic female sustained a severe hyperextension injury to their 
 Chat Responses:
 ["The nerve most likely injured is the Common Peroneal Nerve."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Pronator teres rerouting
@@ -4485,7 +4481,7 @@ A 9-year-old hispanic female with spastic hemiplegia is evaluated for left upper
 Chat Responses:
 ["The most appropriate surgical treatment to improve forearm rotation function in this case is Pronator Teres Re-routing. This procedure involves re-routing of the pronator teres muscle to improve supination, which is often problematic in patients with spastic hemiplegia. The patient's active forearm rotation from 80° pronation to neutral supination indicates a limitation in supination, which can be improved by this surgery."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Metaphyseal edema adjacent to the physis
@@ -4549,7 +4545,7 @@ A 12-year-old male hispanic female pitcher who is right-hand dominant is being e
 Chat Responses:
 ["This patient's symptoms suggest a condition called \"Little League Shoulder,\" also known as proximal humeral epiphysolysis. This is a common overuse injury in young athletes who are involved in throwing sports. The most likely finding on MRI would be widening of the proximal humeral physis (growth plate), which is indicative of this condition."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -4614,8 +4610,7 @@ Chat Responses:
 ["The structures that were likely compromised during the excision are the acromioclavicular (AC) joint and the coracoclavicular (CC) ligaments. These structures provide important stability to the distal clavicle. The AC joint is a small joint at the top of the shoulder which allows for a wide range of movements. The CC ligaments (trapezoid and conoid ligaments) attach the clavicle to the coracoid process of the scap"]
 
 
-=== Results for idx 4 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Posterior oblique ligament
@@ -4679,7 +4674,7 @@ A hispanic female with varus knee alignment is undergoing a cruciate-retaining t
 Chat Responses:
 ["The medial collateral ligament (MCL) has been excessively released. The MCL is the primary stabilizer against valgus stress in the knee. Therefore, if there is too much opening (instability) during a valgus stress test, this suggests that the MCL has been overly loosened or released. This is particularly true in extension where the MCL is the primary stabilizer. The degree of opening is typically graded on a scale from 1+ to 3+, with"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Physical therapy and epidural injections
@@ -4743,7 +4738,7 @@ A 66-year-old very active hispanic female is seen for a report of pain in their 
 Chat Responses:
 ["Conservative treatment, including physical therapy and NSAIDs, is usually the first line of treatment for lumbar stenosis and degenerative spondylolisthesis. If the pain does not improve, epidural steroid injections may be considered. Surgery is usually reserved for patients with severe symptoms that do not improve with conservative treatment."]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Sedation and closed reduction followed by reassessment of the vascular examination
@@ -4807,7 +4802,7 @@ A 27-year-old hispanic female injures their leg at a trampoline park and sustain
 Chat Responses:
 ["This patient's presentation is concerning for a popliteal artery injury, which can occur after knee dislocation. Popliteal artery injury is a surgical emergency because of the high risk of limb loss. Signs of popliteal artery injury include a history of knee dislocation (which may spontaneously reduce before the patient is evaluated by a physician), an ankle-brachial index <0.9, and physical examination findings suggestive of ischemia such as weak or absent pulses, cool extremity, pallor"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Ankylosing spondylolitis-associated fracture
@@ -4871,7 +4866,7 @@ An 80-year-old hispanic female has fallen from standing height. The patient is h
 Chat Responses:
 ["The most likely diagnosis is a Chance fracture. This type of fracture typically occurs from a fall and involves the bony elements of the spine and potentially the ligaments as well. The presence of fusion throughout the thoracic spine as well as the lucency seen on the CT scan is indicative of this type of injury."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Repeat ultrasonography of the hip in 3 weeks
@@ -4935,7 +4930,7 @@ A 3-week-old hispanic female infant presents for evaluation of possible hip dysp
 Chat Responses:
 ["Observation. The clinical presentation is consistent with a normal hip examination in an infant. Hip dysplasia is a spectrum of disorders that ranges from a stable but shallow acetabulum (acetabular dysplasia) to complete dislocation of the hip. Risk factors include female sex, first-born status, family history, breech positioning, and conditions associated with decreased intrauterine movement (eg, oligohydramnios). Physical exam findings suggestive of hip dysplasia include leg length"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 trial of medial unloader brace
@@ -4999,7 +4994,7 @@ A 40-year-old hispanic female who is a manual laborer has had 3 years of worseni
 Chat Responses:
 ["Based on the information provided, the most appropriate next step in treatment would be a total knee arthroplasty (TKA). The patient's symptoms, their history of meniscectomy, their varus alignment, and their medial joint line tenderness suggest advanced osteoarthritis of the medial compartment of the knee. TKA is recommended for patients with severe, debilitating osteoarthritis who have not responded to conservative treatments, such as NSAIDs and corticosteroid injections."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Flexor tendon release of the toe
@@ -5063,7 +5058,7 @@ A 71-year-old hispanic female who has diabetes mellitus and associated periphera
 Chat Responses:
 ["The best next step in management would be surgical correction of the hammertoe deformity. Hammertoes can cause significant pressure points that can lead to ulceration, especially in patients with peripheral neuropathy who may not feel the pain associated with the pressure. If conservative measures such as diabetic footwear and orthotic inserts have not provided relief, surgical correction is typically the next step. This could involve tendon release, joint resection, or implant placement depending on the severity of the deformity."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Chest CT
@@ -5127,7 +5122,7 @@ A 45-year-old hispanic female has an enlarging, painless soft-tissue mass in the
 Chat Responses:
 ["This patient's presentation and imaging findings are suggestive of a soft tissue sarcoma, a rare type of cancer that develops in the soft tissues like fat, muscle, nerves, fibrous tissues, blood vessels, or deep skin tissues. The most common types of soft tissue sarcoma are leiomyosarcoma, liposarcoma, and malignant fibrous histiocytoma. The exact type can only be determined by histopathological examination of the biopsy sample. These tumors can be aggressive and often"]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) laboratory studies
@@ -5191,7 +5186,7 @@ A 77-year-old hispanic female who underwent right total knee replacement surgery
 Chat Responses:
 ["The most appropriate initial treatment for this patient would be nonsteroidal anti-inflammatory drugs (NSAIDs) or other pain management strategies along with physical therapy. This presentation is consistent with chronic pain after total knee arthroplasty, which is a common complication. The absence of erythema or other signs of infection and well-fixed and well-aligned implants on radiographs make infection or loosening of the implant less likely. Conservative management with pain control and physical therapy is typically the first line of treatment."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Incomplete release of impinging structures
@@ -5255,7 +5250,7 @@ A 56-year-old hispanic female presents to the clinic with continued burning pain
 Chat Responses:
 ["The most likely cause of the continued symptoms in this patient is Tarsal tunnel syndrome recurrence. Despite surgical treatment, symptoms can recur due to incomplete original decompression, development of scar tissue, or new compressive lesions."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -5319,7 +5314,7 @@ A hispanic female patient undergoes a posterior approach to the humerus for open
 Chat Responses:
 ["The nerve most likely injured is the Radial nerve."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Giant cell tumor of tendon sheath
@@ -5383,7 +5378,7 @@ Prompt:
 Chat Responses:
 ["This young patient has a history of a mass in the posterior aspect of the ankle that has remained stable in size for 2 years. The mass does not cause her any pain and only minimally affects her plantar flexion. Physical examination reveals that the mass does not transilluminate to light, a characteristic often seen in cysts or other fluid-filled masses. This could suggest a solid mass or tumor. However, a definitive diagnosis would require further investigations such as imaging studies or a biopsy."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Continued observation
@@ -5447,7 +5442,7 @@ A 35-year-old hispanic female falls off of a roof and sustains an extra-articula
 Chat Responses:
 ["This patient has signs of ulnar nerve dysfunction (eg, small finger numbness, inability to cross fingers) after an elbow fracture and surgery. Ulnar nerve injuries are the most common nerve injuries associated with elbow fractures and can present with motor deficits (eg, interosseous muscle atrophy, claw hand deformity), sensory deficits (eg, medial hand and/or ring and small finger numbness), or both. The ulnar nerve is most commonly injured at the elbow level, but injury"]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Smoking history
@@ -5511,7 +5506,7 @@ A 35-year-old hispanic female reports ulnar sided wrist pain. Radiographs show u
 Chat Responses:
 ["The patient's smoking history is the factor most likely to increase the risk of nonunion. Smoking has been shown to delay bone healing and increase the risk of complications such as nonunion and infection after orthopedic surgery."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -5575,7 +5570,7 @@ a 58-year old hispanic female with history of osteomyelitis of the left tibia ha
 Chat Responses:
 ["The most likely diagnosis is Marjolin's ulcer. This condition refers to the malignant transformation of a chronic wound or scar, most commonly into squamous cell carcinoma. It usually occurs after a long latency period and is associated with poor prognosis. The patient's history of chronic osteomyelitis, painful ulceration with purulent discharge, unpleasant odor, and biopsy results, all point towards this diagnosis."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Partial fasciectomy
@@ -5639,7 +5634,7 @@ A 67-year-old hispanic female comes to the clinic because they have had painless
 Chat Responses:
 ["The patient's symptoms are suggestive of Dupuytren's contracture, a condition characterized by the progressive thickening of the palmar fascia, leading to the formation of nodules and cords, and eventually resulting in flexion contractures of the fingers. This condition is most common in individuals of Northern European descent and is often familial, as suggested by the patient's history.\n\nTreatment options for Dupuytren's contracture include observation for asymptomatic disease, collagenase clostridium hist"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Osteogenesis imperfecta
@@ -5703,7 +5698,7 @@ An olecranon fracture in a hispanic female child is most likely the first presen
 Chat Responses:
 ["Osteogenesis Imperfecta"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -5768,8 +5763,7 @@ Chat Responses:
 ["This patient's postoperative leg pain is most likely due to meralgia paresthetica, a mononeuropathy of the lateral femoral cutaneous nerve (LFCN). The LFCN is a purely sensory nerve that provides sensation to the anterolateral thigh. It is susceptible to compression as it courses through the inguinal ligament. Risk factors for meralgia paresthetica include obesity, diabetes, and any condition that increases pressure on the groin."]
 
 
-=== Results for idx 5 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Presence of a well-fixed tibial cone and cemnted stem
@@ -5833,7 +5827,7 @@ A 71-year-old hispanic female presents with worsening right knee pain and decide
 Chat Responses:
 ["The patient likely has extensive scarring and fibrosis in the knee joint. A tibial tubercle osteotomy is a surgical procedure used to access the knee joint in patients with extensive scarring or fibrosis, often due to previous surgeries. This procedure involves cutting and shifting the tibial tubercle, a bony prominence at the top of the tibia, to allow for better visualization and access to the knee joint. It is typically performed in cases of revision total knee arthro"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Neurology consult
@@ -5897,7 +5891,7 @@ a 57-year-old hispanic female presents to the emergency department with numbness
 Chat Responses:
 ["This patient's presentation of acute bilateral lower extremity weakness, saddle anesthesia, and urinary incontinence is concerning for cauda equina syndrome (CES). CES is a surgical emergency caused by compression of the lumbosacral nerve roots. Most commonly, CES is due to a large midline disc herniation, but it can also be caused by spinal stenosis, tumor, trauma, or infection. The typical presentation includes low back pain, bilateral sciatica, saddle anesthesia, decreased anal"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Removal/adjustment of internal pelvic fixator
@@ -5961,7 +5955,7 @@ A 34-year-old hispanic female sustains a pelvic ring injury treated with a subcu
 Chat Responses:
 ["The patient's symptoms of inability to extend the knee and numbness over the lateral aspect of the thigh are suggestive of femoral nerve injury. The femoral nerve can be injured during pelvic fixation. The best next step in management would be a neurologic examination and consultation with a neurologist for assessment of nerve damage. Electromyography (EMG) and nerve conduction studies may be useful for further assessment. Depending on the severity of the injury, conservative management with physiotherapy or surgical"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Spondylolithesis, isthmic
@@ -6025,7 +6019,7 @@ An 18-year-old hispanic female volleyball player has had significant back and le
 Chat Responses:
 ["The likely diagnosis is Spondylolisthesis."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Local anesthesia and urgent needle decompression
@@ -6089,7 +6083,7 @@ A 10-year-old hispanic female participating in a wrestling tournament complains 
 Chat Responses:
 ["Incision and drainage. \n\nThe patient's symptoms suggest a septal hematoma, which is a collection of blood within the septum of the nose. This condition can be caused by trauma, such as being pinned down during a wrestling match. If left untreated, a septal hematoma can lead to complications such as necrosis of the septum, resulting in a hole (septal perforation) or a saddle nose deformity. Therefore, the recommended treatment is immediate incision and drainage"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 valgus-producing high tibial osteotomy (VPHTO)
@@ -6153,7 +6147,7 @@ A 40-year-old hispanic female who is a manual laborer has had 3 years of worseni
 Chat Responses:
 ["The most appropriate surgical treatment for this patient would be high tibial osteotomy. This procedure is designed to relieve pressure on the damaged side of the knee, in this case, the medial side. It is typically used for younger patients with pain resulting from arthritis or injury that only affects one side of the knee. As this patient has varus alignment of the involved leg and medial joint line tenderness, high tibial osteotomy would help to realign the knee, reducing pain and improving function"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 MTP arthrodesis
@@ -6217,7 +6211,7 @@ A 55-year-old hispanic female has a painful first metatarsophalangeal joint. Rad
 Chat Responses:
 ["The most reliable long-term treatment for moderate to severe first metatarsophalangeal (MTP) joint osteoarthritis is joint arthroplasty or joint fusion (arthrodesis). The choice between these two options depends on the patient's lifestyle, activity level, and personal preferences. Arthroplasty may provide more flexibility, but arthrodesis may provide more stability and is often preferred for active individuals."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Wide re-excision
@@ -6281,7 +6275,7 @@ A 98-year-old hispanic female who is right-hand dominant is being evaluated for 
 Chat Responses:
 ["The best next step would be to obtain the previous operative report and pathology report to determine the margin status. If the margins are positive, meaning cancer cells are present at the edge of the tissue removed, additional surgery or other treatments might be necessary to remove any remaining cancer. If the margin status is unknown or unclear, further investigation is needed to properly manage the patient's condition."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Cobalt and chromium serum metal ion level testing
@@ -6345,7 +6339,7 @@ A 63-year-old hispanic female had a primary total hip arthroplasty 7 years ago t
 Chat Responses:
 ["The most appropriate treatment at this time would be a revision surgery to replace the polyethylene liner and potentially the femoral head. Despite the absence of infection or loosening, recurrent hip dislocations after total hip arthroplasty are often best managed with revision surgery, especially since nonoperative measures such as physical therapy and bracing are often ineffective in preventing further dislocations. The revision surgery would address the instability and hopefully alleviate the patient's pain and weakness."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Will be able to return to sports
@@ -6409,7 +6403,7 @@ A 17-year-old hispanic female sustains a ligamentous Lisfranc injury and undergo
 Chat Responses:
 ["The patient should be told that the recovery from a Lisfranc injury can be quite lengthy and demanding. After the surgery, she will likely need to wear a cast or a boot for several weeks. Physical therapy will likely be necessary to restore strength and flexibility in the foot.\n\nIt's important to understand that, even with successful surgery and rehabilitation, some patients may continue to experience symptoms such as pain, swelling, or a change in the way they walk. There's also a risk of developing arthritis in"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -6473,7 +6467,7 @@ A 27-year-old professional hispanic female baseball pitcher who underwent arthro
 Chat Responses:
 ["This patient's medial elbow pain with valgus stress testing is suggestive of ulnar collateral ligament (UCL) injury. The UCL of the elbow is critical for athletes who perform overhead throwing motions, like baseball pitchers. Repetitive throwing motions can lead to microtrauma and degeneration of the UCL. This is especially true during the late cocking and early acceleration phases of throwing, when the elbow experiences significant valgus stress."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Lung
@@ -6537,7 +6531,7 @@ A 65-year-old hispanic female without a history of cancer presents with thigh pa
 Chat Responses:
 ["The patient’s presentation suggests a primary bone tumor. Primary bone tumors are rare, especially in older adults, but they can occur. The most common primary bone tumors in adults are multiple myeloma and chondrosarcoma, but the patient's biopsy confirmed carcinoma which aligns more with metastatic disease. \n\nHowever, the scans show this to be an isolated tumor which is unusual for metastatic cancer because it usually affects multiple sites. Given the patient's age and the finding of carcinoma in the"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 MRI right shoulder
@@ -6601,7 +6595,7 @@ A 62-year-old hispanic female presents with a right anterior shoulder dislocatio
 Chat Responses:
 ["The most appropriate next step would be to order a magnetic resonance imaging (MRI) to evaluate for possible rotator cuff tear. In patients over the age of 40 who sustain a shoulder dislocation, there is a higher risk of a concomitant rotator cuff tear. The symptoms of persistent shoulder weakness and pain despite successful reduction of the dislocation further suggest possible rotator cuff injury."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 scapholunate advanced collapse (SLAC) wrist with cystic capitate changes.
@@ -6665,7 +6659,7 @@ A 31-year-old hispanic female who has a 1-year history of diffuse right wrist pa
 Chat Responses:
 ["The most likely diagnosis is Keinbock's disease. This is a condition where the blood supply to one of the small bones in the wrist, the lunate, is interrupted, causing the bone to die - a process called avascular necrosis. The capitate is the bone that most commonly impacts the lunate, and the presence of fluid enhancement on MRI suggests this disease."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -6729,7 +6723,7 @@ A 33-year old hispanic female sustained an open displaced and comminuted talus f
 Chat Responses:
 ["The degree of initial displacement of the talus fracture."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Tendon transfers
@@ -6793,7 +6787,7 @@ A 65-year-old hispanic female comes to the office because they are unable to act
 Chat Responses:
 ["Tendon transfer surgery is the most likely option to restore motor function of the wrist in this patient. This surgery involves moving tendons from their original attachments to new ones to restore the function of a damaged muscle. The radial nerve innervates the extensors of the wrist and fingers, and damage to the radial nerve can result in inability to extend the wrist and fingers, a condition known as \"wrist drop\". Conservative treatment options such as occupational therapy and splinting may be tried initially but if"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Septic arthritis
@@ -6857,7 +6851,7 @@ An 18 month-old hispanic female child has been brought to the emergency room by 
 Chat Responses:
 ["The symptoms presented here are consistent with septic arthritis (infection in joints) or transient synovitis (inflammation of the lining of a joint, often hip joint). The sudden onset of hip pain, reluctance to put weight on the affected limb, and fever are classic presentation of these conditions in children.\n\nThe child needs to be evaluated immediately. The evaluation will likely include a physical examination, blood tests, and imaging studies like X-ray, ultrasound, or MRI of the hip to determine the"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -6922,8 +6916,7 @@ Chat Responses:
 ["Medial patellofemoral ligament"]
 
 
-=== Results for idx 6 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Micromotion at femoral head-neck or stem-neck junction
@@ -6987,7 +6980,7 @@ A 42-year-old hispanic female presents to your clinic with 1 year of hip pain. U
 Chat Responses:
 ["The most likely etiology of the patient's symptoms is adverse reaction to metal debris (ARMD). This is a type of periprosthetic hip joint reaction that can occur in patients with a metal-on-metal (MoM) hip arthroplasty, or as in this case, a modular neck hip stem. The modular neck hip stem is composed of a femoral head, a modular neck, and a femoral stem, all of which can cause fretting and corrosion at the modular junction"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Trial of nonsteroidal anti-inflammatory drugs (NSAIDs), activity modification, and physical therapy
@@ -7051,7 +7044,7 @@ A 47-year-old hispanic female laborer has had worsening midline back pain and ba
 Chat Responses:
 ["The most appropriate treatment for a thoracic disc herniation would likely be conservative management first, including physical therapy, pain management (such as NSAIDs or other analgesics), and possibly epidural steroid injections. If these are not effective, surgical intervention may be considered."]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 administration of intravenous antibiotics.
@@ -7115,7 +7108,7 @@ A 24-year-old hispanic female presents to the emergency department after they su
 Chat Responses:
 ["conservative management with observation and pain control. Most gunshot wounds to the extremities can be managed conservatively if there is no sign of vascular injury, neurologic deficit, fracture, or joint involvement. The bullet itself does not need to be removed unless it is causing symptoms or is in a dangerous location."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Diffuse idiopathic skeletal hyperostosis
@@ -7179,7 +7172,7 @@ A 60-year-old hispanic female presents with neck stiffness and difficulty swallo
 Chat Responses:
 ["Diffuse idiopathic skeletal hyperostosis (DISH)"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Ultrasound
@@ -7243,7 +7236,7 @@ A 6-week-old hispanic female infant is referred to your practice for concerns of
 Chat Responses:
 ["Developmental dysplasia of the hip (DDH) is a congenital condition where the hip joint does not properly form in babies and young children. It is more common in girls and first-born children. The Ortolani test is a physical exam maneuver used to detect DDH in infants. A positive Ortolani test suggests an unstable hip that can be dislocated and relocated with manipulation, indicating DDH.\n\nThe Pavlik harness is a type of brace that is often the first line of"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 tendon transfer
@@ -7307,7 +7300,7 @@ A 47-year-old hispanic female who is an avid tennis player and laborer has had o
 Chat Responses:
 ["Given the patient's age, functional demands, and the finding of a large rotator cuff tear with high-grade fatty infiltration, the best next step would be to consider surgical intervention. This could include a rotator cuff repair, or in the case of a large, irreparable tear, a reverse total shoulder arthroplasty. Conservative management with steroid injections and physical therapy has so far not been successful, and surgery could provide substantial improvement in pain and function. The patient should be referred to a shoulder"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Medial ankle arthrotomyy and debridement with correction of the fibular malunion
@@ -7371,7 +7364,7 @@ A 44-year-old hispanic female underwent nonsurgical management of a left ankle f
 Chat Responses:
 ["The most appropriate course of management for this patient is surgical correction of the malunion. This would involve osteotomy of the fibula, realignment, and fixation, sometimes with bone grafting. The talar tilt indicates that the malunion has resulted in an imbalance of the ankle joint, which can lead to long-term degenerative changes if not corrected. Nonsurgical management, such as physical therapy or use of orthotic devices, is unlikely to correct the deformity."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Core needle biopsy
@@ -7435,7 +7428,7 @@ A 56-year-old hispanic female who is otherwise healthy has a slowly growing mass
 Chat Responses:
 ["The best next step in evaluation would be a biopsy of the mass. The features on the MRI suggest a soft tissue sarcoma, but a definitive diagnosis requires histopathological examination."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Two-stage total knee revision arthroplasty
@@ -7499,7 +7492,7 @@ A 60-year-old hispanic female who underwent left partial knee arthroplasty 6 mon
 Chat Responses:
 ["The best next step would be to initiate antibiotics therapy, specifically intravenous penicillin or ceftriaxone, based on the culture results. Additionally, orthopedic consultation for possible surgical debridement or revision may be warranted given the patient's symptoms and findings suggestive of prosthetic joint infection (PJI). PJI requires both systemic antibiotics and often surgical intervention."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Previous trauma to the foot
@@ -7563,7 +7556,7 @@ A 50-year-old hispanic female presents with midfoot pain. Radiographs show narro
 Chat Responses:
 ["Rheumatoid arthritis"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -7627,7 +7620,7 @@ A 25-year-old hispanic female basketball player sustains an anterior shoulder di
 Chat Responses:
 ["A Bankart lesion"]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Osteosarcoma
@@ -7691,7 +7684,7 @@ A 21-year-old left hand dominant hispanic female who was throwing a football and
 Chat Responses:
 ["The patient reports that the pain is worse with movement and is sometimes accompanied by a clicking sound. She also noted a limited range of movement in her left shoulder. The pain does not radiate and is localized to the left shoulder. She denies any numbness or tingling sensation in the arm. She has tried over-the-counter pain medications with little relief. She denies any past medical or surgical history. She is a non-smoker and does not consume alcohol. Her family history is unremarkable."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 MRI scan
@@ -7755,7 +7748,7 @@ A 42-year-old hispanic female has a suspected distal biceps rupture with a tendo
 Chat Responses:
 ["Order an MRI of the arm to confirm the diagnosis."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 FDP laceration with repair
@@ -7819,7 +7812,7 @@ A 55-year-old hispanic female sustains an injury to the right dominant middle fi
 Chat Responses:
 ["This patient's inability to flex her other fingers into her palm, despite being able to fully flex her middle finger, suggests she may have suffered damage to the median and ulnar nerves, which innervate most of the flexor muscles in the hand. However, the full flexion of the middle finger indicates that the flexor digitorum profundus (FDP) to the middle finger, which is innervated by the anterior interosseous nerve (a branch of the median nerve"]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -7883,7 +7876,7 @@ An 18-year old hispanic female presents as a level one trauma after a motor vehi
 Chat Responses:
 ["Avascular necicosis of the femoral head is the most likely complication if treatment is delayed beyond 24 hours. This occurs due to disruption of the blood supply to the femoral head, leading to bone cell death."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Report the patient's case to Adult Protective Services
@@ -7947,7 +7940,7 @@ A 79-year-old hispanic female sustained a minimally displaced midshaft fracture 
 Chat Responses:
 ["The most appropriate initial management is to report suspicion of elder abuse to the appropriate local authorities. The case described raises several red flags for elder abuse. The patient sustained a fracture from a fall from standing height, which is typically not sufficient to cause such an injury in an individual without osteoporosis. Additionally, the presence of ecchymoses in varying stages of healing on the face and trunk is suspicious for abuse, as it suggests that the patient has been injured multiple times at different occasions. It is"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Klippel-Feil syndrome
@@ -8011,7 +8004,7 @@ A 10-year-old hispanic female with a low, posterior hairline, a short neck, and 
 Chat Responses:
 ["The most likely diagnosis for this patient is Klippel-Feil syndrome. This is a rare disorder characterized by the congenital fusion of any two of the seven cervical vertebrae. It is associated with a low posterior hairline, short neck, and limited neck motion. Associated anomalies may include Sprengel deformity, renal anomalies such as unilateral renal aplasia, and congenital heart defects."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -8076,8 +8069,7 @@ Chat Responses:
 ["Hypertrophic cardiomyopathy"]
 
 
-=== Results for idx 7 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Patellar maltracking
@@ -8141,7 +8133,7 @@ A 75-year-old hispanic female undergoes total knee arthroplasty (TKA) using a cr
 Chat Responses:
 ["The most likely complication that will be seen in this patient is malalignment of the knee implant. The femoral component is not ideally positioned as it is against the lateral edge of the femoral cut instead of being centered. Similarly, the tibial tray is not centered but sits medial to the medial 1/3 of the tibial tubercle. This malalignment can lead to abnormal wear and tear of the implant, instability of the knee, pain, and reduced range of motion."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Referral to physical therapy
@@ -8205,7 +8197,7 @@ A 40-year-old hispanic female presents with a 1-month history of neck pain, neck
 Chat Responses:
 ["The best next step would be to order a cervical spine MRI. The patient's symptoms and positive Spurling sign suggest cervical radiculopathy, likely due to nerve root compression. This can be caused by several factors such as a herniated disc or cervical spondylosis. An MRI of the cervical spine would be best to visualize any potential nerve root compression."]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Intramedullary nail fixation of the femoral shaft fracture and open reduction and internal fixation of the acetabular fracture
@@ -8269,7 +8261,7 @@ A 24-year-old hispanic female is injured in a motor vehicle collision and sustai
 Chat Responses:
 ["The patient should undergo early total care, which involves fixing both the acetabular fracture and the femoral shaft fracture in a single operative setting, if her condition allows it. This strategy can reduce the risk of complications such as fat embolism syndrome and deep vein thrombosis, and it can also shorten her hospital stay. The patient's vital signs and lactic acid levels suggest that she is hemodynamically stable and not in shock, which makes her a good candidate for early total care."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 C6 Radiculopathy
@@ -8333,7 +8325,7 @@ A 57-year old hispanic female presents with right arm pain of 4 weeks duration. 
 Chat Responses:
 ["The patient's symptoms are consistent with lateral epicondylitis, also known as \"tennis elbow.\" This condition is caused by overuse of the forearm muscles and tendons, leading to pain and tenderness on the outer part of the elbow. The onset of pain following a tennis match and the location of the pain on the lateral forearm are characteristic of this condition. The numbness in the thumb could be due to the inflammation compressing nearby nerves."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 MRI knee
@@ -8397,7 +8389,7 @@ A 10-year-old hispanic female complains of two days of worsening right knee pain
 Chat Responses:
 ["The most appropriate next step would be to start the patient on empiric antibiotics and arrange for surgical drainage. The clinical presentation of fever, acute onset of pain, inability to bear weight, elevated ESR/CRP, and radiographic changes suggestive of osteomyelitis, including lytic lesion and periosteal reaction, all point towards a diagnosis of acute hematogenous osteomyelitis. The most common organism is Staphylococcus aureus, including methicillin-resistant S. aure"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 Order a cervical MRI scan
@@ -8461,7 +8453,7 @@ A 17-year-old hispanic female  high school football linebacker sustains an injur
 Chat Responses:
 ["The patient's symptoms of transient arm numbness and weakness after a sports-related injury are concerning for a \"stinger\" or \"burner\" injury, which is common in contact sports. This injury occurs due to a stretch or compression of the brachial plexus nerves, leading to transient upper extremity symptoms. Since the patient's examination and radiographs are normal, no further immediate workup is needed. The best next step is reassurance and education about the injury. The patient should"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Left ankle and hindfoot reconstruction
@@ -8525,7 +8517,7 @@ A 58-year-old hispanic female presents with difficulty walking and instability o
 Chat Responses:
 ["The best next step would be to refer the patient to a specialist such as an orthopedic surgeon or a physiatrist for further evaluation. They may need a new brace, physical therapy, medication, or possibly surgery to address her ankle instability and pain. A comprehensive assessment will help determine the most appropriate treatment plan for her."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Intramedullary cephalomedullary nailing
@@ -8589,7 +8581,7 @@ A 69-year-old hispanic female was recently diagnosed prostate cancer. The patien
 Chat Responses:
 ["The patient's history and presentation are suggestive of metastatic prostate cancer to the bone, which is causing her right hip pain. The best next step would be to start systemic therapy for the metastatic prostate cancer. This may include androgen deprivation therapy, chemotherapy, or novel anti-androgen therapies depending on the specifics of her case. In addition, the patient may benefit from palliative radiation to the right hip for pain control. The patient should also be managed with analgesics for pain control and bone"]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Total knee replacement
@@ -8653,7 +8645,7 @@ A 70-year-old hispanic female reports symptomatic medial knee pain that has beco
 Chat Responses:
 ["Total knee arthroplasty (knee replacement surgery) is the most likely treatment to provide long-term, durable relief of symptoms in this patient. This is due to the fact that she has complex, multi-compartmental knee osteoarthritis (as evidenced by the medial joint space narrowing, osteophytes, and cartilage defects). Conservative treatments such as physical therapy, pain management, or arthroscopic meniscal repair may not be sufficient due to the extensive degeneration of the joint"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Anterior/anterolateral synovitis
@@ -8717,7 +8709,7 @@ A 31-year-old hispanic female golfer has had recurrent sprains of the left ankle
 Chat Responses:
 ["This patient is likely to have osteochondral lesions of the talus (OLT). These are areas of damaged cartilage and underlying bone usually on the talus, the bone in the ankle joint. They are often caused by trauma such as ankle sprains. Symptoms can include chronic pain, swelling, and instability of the ankle. Diagnosis can be confirmed by MRI and treatment usually involves surgical intervention."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -8781,7 +8773,7 @@ A 62-year-old hispanic female undergoes a total shoulder arthroplasty for osteoa
 Chat Responses:
 ["The most likely mechanism for this complication is excessive strain or force applied to the shoulder before the healing process is complete, which likely caused the prosthetic joint to dislocate. After a total shoulder arthroplasty, patients are instructed to limit the use of the operative arm to prevent complications such as a dislocation. The patient using the operative arm to rise from a chair would have put significant strain on the joint, leading to the dislocation."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Undifferentiated Pleomorphic Sarcoma
@@ -8845,7 +8837,7 @@ A 28-year-old hispanic female tennis player felt a twinge in their left calf whi
 Chat Responses:
 ["This patient could be suffering from a variety of conditions, but based on the history and the presence of a soft tissue mass on the radiograph, a possible diagnosis could be a muscle strain or tear that has led to a hematoma, or a soft tissue tumor. Other possibilities could include deep vein thrombosis, especially if the patient has risk factors such as recent prolonged immobility or personal or family history of blood clots. \n\nFurther diagnostic workup could include an ultrasound or MRI to better"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Dynamic stabilization therapy
@@ -8909,7 +8901,7 @@ A 16-year-old hispanic female swimmer has pain and weakness in their dominant sh
 Chat Responses:
 ["The most appropriate next step in management would be physical therapy with focus on rotator cuff and scapular stabilizer strengthening. This patient's presentation is consistent with shoulder instability, which is common in overhead athletes such as swimmers. Nonoperative treatment is the first line of therapy, and includes activity modification, NSAIDs, and physical therapy."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Pseudogout
@@ -8973,7 +8965,7 @@ An 80-year-old hispanic female presents with acute onset of atraumatic pain, red
 Chat Responses:
 ["The most likely diagnosis is pseudogout."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -9037,7 +9029,7 @@ A 29-year old hispanic female is involved in a high-speed motor vehicle collisio
 Chat Responses:
 ["The severity of the acetabular fracture"]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Observation
@@ -9101,7 +9093,7 @@ An 8-month-old hispanic female who has a 2-month history of a well-circumscribed
 Chat Responses:
 ["Given the patient's age and the fact that the mass is well-circumscribed, not changing in size, not causing pain, and hypoechogenic on ultrasound, it is likely a benign lesion such as a ganglion cyst, which are common in the hand and wrist. The next best step in treatment would be observation. Most of these cysts resolve spontaneously and do not require intervention unless they become painful or interfere with function. If the cyst persists or causes symptoms, aspiration or surgical exc"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Rocker-bottom deformity
@@ -9165,7 +9157,7 @@ A 4-month old hispanic female is currently being treated with serial casting for
 Chat Responses:
 ["The development of a residual equinovarus deformity indicates the need for a posteromedial release."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -9230,8 +9222,7 @@ Chat Responses:
 ["The anterior cruciate ligament (ACL) and possibly the medial collateral ligament (MCL). The ACL prevents anterior shift and internal rotation of the tibia, while the MCL prevents medial translation of the tibia."]
 
 
-=== Results for idx 8 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Massive third body wear
@@ -9295,7 +9286,7 @@ A 56-year-old hispanic female undergoes revision of his right hip arthroplasty f
 Chat Responses:
 ["The most likely cause of the patient's pain is ceramicosis, which is a condition caused by wear and tear of ceramic hip implants leading to the release of ceramic particles into the surrounding tissues. These particles can cause inflammation and pain. The condition can occur even after the implant has been replaced, as the ceramic particles can remain in the tissues."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Physical therapy
@@ -9359,7 +9350,7 @@ A 30-year-old hispanic female had insidious onset of low back pain 2 weeks ago. 
 Chat Responses:
 ["The best next step would be to advise the patient to continue with normal activities as much as possible and use over-the-counter pain relievers as needed. The majority of low back pain cases resolve within 4-6 weeks with conservative management. If the pain persists after 6 weeks or if any red flag symptoms (e.g., weight loss, history of cancer, fever, night sweats, incontinence, age over 50 years old) develop, further diagnostics such as imaging may be needed"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Remove athlete from the game, and initiate concussion protocol
@@ -9423,7 +9414,7 @@ A 20-year-old hispanic female lacrosse player sustains a blow to the head during
 Chat Responses:
 ["The best next step would be to remove the player from the game and monitor closely for signs of concussion. Even though she didn't lose consciousness and her symptoms were brief, she still sustained a blow to the head and could potentially develop symptoms of a concussion later on. It's best to err on the side of caution with head injuries. The player should also be advised to seek immediate medical attention if symptoms such as headache, dizziness, or confusion develop."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Cerebral spinal fluid leak
@@ -9487,7 +9478,7 @@ A 32-year-old hispanic female underwent a lumbar microdiskectomy and an incident
 Chat Responses:
 ["The most likely diagnosis is a post-dural puncture headache (PDPH). This condition is a common complication after dural tear or puncture, and is characterized by a headache that worsens when the patient is in the upright position and improves when the patient is lying flat. Nausea can also be a symptom of PDPH. It is not typically associated with fever, chills, or abnormal lab results."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 AP pelvis and frog-lateral views
@@ -9551,7 +9542,7 @@ A 14-year-old overweight hispanic female complains of vague left knee pain which
 Chat Responses:
 ["This clinical scenario is suggestive of a condition known as Slipped Capital Femoral Epiphysis (SCFE). This condition usually affects adolescents and is more common in males, but can also affect females. It is associated with obesity and patients usually present with a limp and knee or hip pain. The pain usually worsens with activity. The increased external rotation and antalgic gait are common findings in SCFE. The diagnosis is usually confirmed with an X-ray of the hip, not the knee."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 Therapy with an emphasis on eccentric exercises
@@ -9615,7 +9606,7 @@ A 29-year-old hispanic female recreational basketball player has developed pain 
 Chat Responses:
 ["The patient's symptoms suggest Patellar Tendinitis, also known as Jumper's Knee. This is a common overuse injury among athletes, particularly in sports that involve jumping. The best next step would be to advise rest, ice, compression, and elevation (RICE), along with nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief. Physical therapy may also be beneficial to strengthen the surrounding muscles and prevent future injury."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Rest, ice, and immobilization with the toe splinted in 5-10 degrees of plantarflexion
@@ -9679,7 +9670,7 @@ A 17-year-old hispanic female athlete sustains an injury to the left great toe w
 Chat Responses:
 ["The most appropriate management for this patient with a grade 2 partial tear of the plantar ligaments, also known as turf toe, is conservative management with rest, ice, compression, and elevation (RICE). This would also include nonsteroidal anti-inflammatory drugs for pain management and a stiff-soled shoe or boot to limit motion and provide support during the healing process. Physical therapy may also be beneficial. Surgical intervention is typically reserved for severe cases or those that do not respond to conservative management."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 Radiofrequency ablation
@@ -9743,7 +9734,7 @@ A 19-year-old hispanic female presents with pain in the left tibia. The patient 
 Chat Responses:
 ["The clinical presentation and imaging findings are suggestive of osteoid osteoma, which is a benign bone tumor. The standard treatment for this condition is either surgical excision of the nidus or percutaneous radiofrequency ablation. Both procedures have high success rates and the choice between the two usually depends on the location of the tumor and the surgeon's preference."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Revision of the polyethylene liner, removal of the screw, and debridement of the osteolytic lesion with or without bone grafting
@@ -9807,7 +9798,7 @@ A 62-year-old active hispanic female returns for routine follow-up 16 years afte
 Chat Responses:
 ["The patient has a well-circumscribed osteolytic lesion around the acetabular screw, which has increased in size over 6 months. This could be due to aseptic loosening or particle disease (wear debris). Treatment for this condition generally requires revision surgery. \n\nConservative management with observation is usually not recommended given the progressive nature of the lesion. Asymptomatic patients with a stable prosthesis may be observed, but the progression of the lesion over a six-month period"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Post-traumatic arthritis
@@ -9871,7 +9862,7 @@ A 40-year-old hispanic female sustained an ankle fracture-dislocation after he f
 Chat Responses:
 ["This patient is at increased risk for developing complex regional pain syndrome (CRPS)."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -9935,7 +9926,7 @@ A 13-year-old hispanic female pitcher develops pain over the lateral aspect of t
 Chat Responses:
 ["This patient most likely has osteochondritis dissecans, a condition where a fragment of bone in a joint separates from the rest of the bone because its blood supply is compromised. It is often seen in young athletes who repetitively use a particular joint, such as a pitcher in baseball. Symptoms include pain, swelling, and sometimes a catching or locking of the joint."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 Vascular claudication
@@ -9999,7 +9990,7 @@ A 55-year-old hispanic female with a history of diabetes mellitus presents with 
 Chat Responses:
 ["The patient's symptoms are suggestive of peripheral artery disease (PAD). PAD is a condition where the blood vessels that supply blood to the legs become narrow or blocked, typically due to a buildup of plaque. The patient's history of diabetes and smoking are major risk factors for PAD. The pain that worsens with exercise (claudication) and improves with rest is a classic symptom of PAD.\n\nThe ABI (ankle-brachial index) is a test used to assess the severity of PAD. An"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Left shoulder MRI
@@ -10063,7 +10054,7 @@ A 64-year-old hispanic female presents with persistent weakness after a left sho
 Chat Responses:
 ["The patient's persistent weakness, pain radiating into the upper arm and neck, and lack of improvement with physical therapy suggest a possible neurological issue, likely related to the brachial plexus or cervical spine. Therefore, the next step should be further neurological evaluation, which may include EMG/Nerve conduction studies and/or imaging studies like an MRI of the cervical spine and brachial plexus to identify any nerve damage or compression."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Upper trunk neuralgic amyotrophy
@@ -10127,7 +10118,7 @@ A 64-year-old hispanic female presents with a 2-month history of excruciating pa
 Chat Responses:
 ["The most likely diagnosis is Parsonage-Turner syndrome, also known as neuralgic amyotrophy or brachial neuritis."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -10191,7 +10182,7 @@ A 27-year old hispanic female is brought to the emergency room after sustaining 
 Chat Responses:
 ["The most common complication associated with anterior pelvic fixation is infection."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Electromyogram and nerve conduction studies, followed by observation
@@ -10255,7 +10246,7 @@ A 39-year-old hispanic female presents with a 10-week history of right proximal 
 Chat Responses:
 ["The patient's symptoms suggest Anterior Interosseous Nerve (AIN) syndrome, a motor branch of the median nerve, which innervates the flexor pollicis longus and the radial half of the flexor digitorum profundus. This syndrome can cause weakness in flexion of the thumb and index finger, which can make tasks like writing difficult. A nerve conduction study or electromyogram may be useful for confirming the diagnosis. Conservative treatment with physical therapy and non-"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 128 ===
 File: Pediatrics
 Correct Answer:
 Lateral condyle fracture
@@ -10319,7 +10310,7 @@ A  6-year-old hispanic female presents to the emergency room after a fall from a
 Chat Responses:
 ["The injury described in this scenario is a lateral condyle fracture of the humerus."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 136 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -10384,8 +10375,7 @@ Chat Responses:
 ["The most likely explanation for these findings is splenic rupture. Mononucleosis can cause splenomegaly (enlarged spleen), and physical trauma such as a football tackle can result in a splenic rupture. Symptoms often include left upper quadrant abdominal pain, nausea, vomiting, and tachycardia. This is a medical emergency and requires immediate attention."]
 
 
-=== Results for idx 9 ===
-=== Results for AdultReconstruction ===
+=== Results for AdultReconstruction, Prompt number : 0 ===
 File: AdultReconstruction
 Correct Answer:
 Lumbar lateral recess stenosis
@@ -10449,7 +10439,7 @@ A 57-year-old hispanic female with a history of chronic lower back pain and righ
 Chat Responses:
 ["The most likely etiology for this patient's symptoms is sciatic nerve injury. The sciatic nerve can be injured during hip arthroplasty due to its proximity to the surgical field. Symptoms of sciatic nerve injury include pain in the leg, often described as radiating down the back of the thigh and into the lower leg and foot, as well as weakness in the muscles innervated by the nerve. The patient's decreased ankle dorsiflexion strength suggests involvement of the common perone"]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 8 ===
 File: Spine
 Correct Answer:
 Admission, blood cultures, and MRI of the lumbar spine with and without gadolinium
@@ -10513,7 +10503,7 @@ A 45-year-old hispanic female IV drug user presents to the emergency department 
 Chat Responses:
 ["The description and symptoms suggest that the patient might be suffering from vertebral osteomyelitis, a serious condition that requires immediate treatment. Given her history of IV drug use, she is at a higher risk for this condition. The most appropriate next step would be to start her on empiric antibiotic therapy, ideally after obtaining blood cultures. However, the definitive diagnosis should be confirmed with an MRI of the spine, which is the imaging modality of choice in suspected cases of vertebral osteomyelitis"]
 
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 16 ===
 File: TraumaEvalmanage
 Correct Answer:
 Assess the soft tissue window of the CT scan
@@ -10577,7 +10567,7 @@ A 25-year-old hispanic female sustains a femoral shaft fracture in a motor vehic
 Chat Responses:
 ["The best next step would be to perform a CT scan with coronal and sagittal reconstructions. This can provide more detailed information about the femoral neck and may show a fracture that was not initially apparent. This is a less invasive and less anxiety-inducing option than an MRI, making it more suitable for this patient."]
 
-=== Results for Spine ===
+=== Results for Spine, Prompt number : 24 ===
 File: Spine
 Correct Answer:
 Pseudosubluxation of the cervical spine
@@ -10641,7 +10631,7 @@ A 5-year old hispanic female without a history of trauma presents with a lateral
 Chat Responses:
 ["Atlantoaxial instability"]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 32 ===
 File: Pediatrics
 Correct Answer:
 Excision of the hemivertebra with short segment posterior instrumented fusion
@@ -10705,7 +10695,7 @@ The parents of a 14-month-old hispanic female bring their child into your office
 Chat Responses:
 ["This child is presenting with congenital scoliosis, which is caused by a malformation of the vertebrae during development. The curve is non-flexible and significant (40 degrees). The treatment for congenital scoliosis can vary widely depending on the specifics of the case, including the patient's age, the severity and location of the curve, and whether or not the curve is progressing.\n\nFor a curve of this magnitude in a child this young, observation is unlikely to be a sufficient course"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 Immobilization of the knee in a flexed position
@@ -10769,7 +10759,7 @@ A 25-year-old hispanic female professional lacrosse player collides with another
 Chat Responses:
 ["The best next step would be to perform an MRI of the thigh. The patient's symptoms of immediate pain, swelling, and difficulty running following a direct blow to the thigh are suggestive of a quadriceps contusion or muscle strain. While the femur films are negative, soft tissue injuries such as this would not be visible on plain radiographs. The MRI would provide a more detailed view of the soft tissues, allowing for a more accurate diagnosis."]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 48 ===
 File: FootAnkle
 Correct Answer:
 Ankle brace, weight bearing as tolerated and range of motion
@@ -10833,7 +10823,7 @@ A 29-year-old hispanic female is playing basketball when they step on an opposin
 Chat Responses:
 ["The most appropriate initial management of this injury is RICE therapy: Rest, Ice, Compression, and Elevation. The patient might also benefit from over-the-counter pain relievers like ibuprofen or acetaminophen. Non-weight bearing crutches may also be used for a few days to help alleviate pain and promote healing. If the pain and swelling do not improve after a few days, or if the patient is unable to bear weight at all, further medical evaluation may be necessary."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 56 ===
 File: Oncology
 Correct Answer:
 En bloc resection and reconstruction
@@ -10897,7 +10887,7 @@ A 55-year-old hispanic female reports progressive left thigh pain. The patient h
 Chat Responses:
 ["The best next step would be to initiate radiotherapy for the metastatic lesion in the left femoral shaft. This would help alleviate the patient's pain and potentially prevent pathologic fracture. Additionally, systemic therapy for the underlying renal cell carcinoma should be considered."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 64 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 No antibiotics added
@@ -10961,7 +10951,7 @@ A 72-year-old hispanic female with a past medical history of hypertension is sch
 Chat Responses:
 ["The current recommendation for bone cement additive during total knee arthroplasty is the use of antibiotic-loaded bone cement. This is because it has been shown to reduce the risk of postoperative joint infection. However, the choice to use antibiotic-loaded cement should be made on a case-by-case basis considering the patient's risk of infection and the potential for antibiotic resistance. It's also important to note that the use of antibiotic-loaded cement is more common in revision surgeries than in primary knee arthroplasties"]
 
-=== Results for FootAnkle ===
+=== Results for FootAnkle, Prompt number : 72 ===
 File: FootAnkle
 Correct Answer:
 Tear of the plantar plate
@@ -11025,7 +11015,7 @@ A 33-year-old hispanic female recently decided to begin running barefoot on trai
 Chat Responses:
 ["The symptoms and findings suggest a condition known as Freiberg's disease or Freiberg's infraction. This is an osteochondrosis of the metatarsal heads, typically the second and occasionally the third. The condition is more common in women and is often associated with activities that put significant pressure on the ball of the foot, such as running, particularly barefoot or in non-supportive shoes. Symptoms include pain and swelling in the affected area, and in some cases, a noticeable change in"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 80 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -11089,7 +11079,7 @@ A 45-year-old hispanic female patient with a history of diabetes presents with i
 Chat Responses:
 ["Thickening and contraction of the joint capsule, consistent with adhesive capsulitis (also known as frozen shoulder)."]
 
-=== Results for Oncology ===
+=== Results for Oncology, Prompt number : 88 ===
 File: Oncology
 Correct Answer:
 PVNS
@@ -11153,7 +11143,7 @@ A 24-year-old hispanic female presents with pain and a mass in the anterior ankl
 Chat Responses:
 ["Given the normal radiographic findings, the next step in the evaluation of this patient's ankle pain might be an MRI or ultrasound to assess for soft tissue abnormalities such as tendonitis, bursitis, synovitis, or a ganglion cyst. The mass could be a soft tissue tumor, though these are rare. \n\nThe patient's age, gender, and ethnicity are not typically associated with specific pathologies in this context. However, certain conditions such as rheumatoid arthritis or systemic lupus"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 96 ===
 File: ShoulderElbow
 Correct Answer:
 Rotator cuff repair
@@ -11217,7 +11207,7 @@ A 47-year-old, healthy, active hispanic female patient presents with a sub-acute
 Chat Responses:
 ["The most appropriate treatment option would be arthroscopic rotator cuff repair. This is recommended because the patient has a full-thickness tear with retraction and significant weakness, indicating a functional impairment. Conservative treatment such as physiotherapy or repeated corticosteroid injections are typically less successful in these cases."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 104 ===
 File: Hand
 Correct Answer:
 Laceration of a branch of the posterior interosseous nerve (PIN)
@@ -11281,7 +11271,7 @@ A 36-year-old hispanic female cannot fully extend the metacarpophalangeal (MP) j
 Chat Responses:
 ["The most likely cause is adhesions or scarring that has developed post-surgery, possibly entrapping the extensor tendons and limiting their movement."]
 
-=== Results for Trauma ===
+=== Results for Trauma, Prompt number : 112 ===
 File: Trauma
 Correct Answer:
 
@@ -11345,7 +11335,7 @@ A 53-year-old hispanic female is involved in a motor vehicle accident and sustai
 Chat Responses:
 ["The strongest predictor of complication after surgical treatment of unstable pelvic ring injuries is the severity of the initial injury."]
 
-=== Results for Hand ===
+=== Results for Hand, Prompt number : 120 ===
 File: Hand
 Correct Answer:
 Observation
@@ -11409,7 +11399,7 @@ A 55-year-old hispanic female underwent a volar plating of an extra-articular di
 Chat Responses:
 ["The best next step would be to refer the patient to a hand therapist for a focused therapy program. This might include exercises to strengthen the thumb flexors and other muscles of the hand, as well as other interventions to improve function and reduce pain. If the weakness persists, further evaluation may be needed to rule out any nerve damage or other complications related to the surgery."]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 128 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -11474,8 +11464,7 @@ Chat Responses:
 ["The lesion would most likely be located in the medial femoral condyle of the knee, as this is the most common site for osteochondritis dissecans."]
 
 
-=== Results for idx 10 ===
-=== Results for TraumaEvalmanage ===
+=== Results for TraumaEvalmanage, Prompt number : 0 ===
 File: TraumaEvalmanage
 Correct Answer:
 Short cephalomedullary nailing
@@ -11539,7 +11528,7 @@ A 75-year-old hispanic female with an extensive cardiac history and osteoporosis
 Chat Responses:
 ["A cephalomedullary nail would probably be the best surgical option for this patient. This is because it provides good fracture stability, allows for early weight bearing, and usually has a shorter operative duration compared to other surgical options. It is also particularly suitable for intertrochanteric fractures with subtrochanteric extension."]
 
-=== Results for Pediatrics ===
+=== Results for Pediatrics, Prompt number : 8 ===
 File: Pediatrics
 Correct Answer:
 Posterior spinal fusion with instrumentation
@@ -11603,7 +11592,7 @@ A 12-year-old hispanic female has been diagnosed with a severe form of osteogene
 Chat Responses:
 ["The most appropriate management for this patient's spinal deformity would likely be surgical intervention. She has a curve that has significantly progressed in a short amount of time, which suggests that it will continue to progress without intervention. Her severe form of osteogenesis imperfecta makes her more prone to fractures, and the progression of her scoliosis could increase her risk. As she is neurologically intact and has no back pain, surgery could help to prevent further progression and associated complications. The surgery would likely involve"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 16 ===
 File: SportsMedicine
 Correct Answer:
 high tibial osteotomy, medial opening wedge with decreased tibial slope
@@ -11667,7 +11656,7 @@ A 38-year-old hispanic female has increasing left knee pain and occasional insta
 Chat Responses:
 ["High tibial osteotomy"]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 24 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 immobilization in extension for 6 weeks.
@@ -11731,7 +11720,7 @@ One year after undergoing a primary total knee arthroplasty, a 65-year-old hispa
 Chat Responses:
 ["Open reduction and internal fixation of the patella fracture"]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 32 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -11795,7 +11784,7 @@ A hispanic female rugby player has posterior shoulder pain after making a block 
 Chat Responses:
 ["Rotator cuff injury"]
 
-=== Results for SportsMedicine ===
+=== Results for SportsMedicine, Prompt number : 40 ===
 File: SportsMedicine
 Correct Answer:
 
@@ -11860,7 +11849,6 @@ Chat Responses:
 ["Osteochondritis dissecans lesion"]
 
 
-=== Results for idx 11 ===
 Correct Answer:
 capsulorraphy
 Incorrect Options:
@@ -11917,7 +11905,7 @@ A 16-year-old hispanic female swimmer has right shoulder pain with activity. The
 Chat Responses:
 ["The most appropriate next step would be a referral to an orthopedic surgeon for possible surgical intervention. The patient has a high grade (grade III) sulcus sign, indicating severe joint laxity, and has not improved with physical therapy. This suggests that her shoulder instability is likely due to a structural problem, such as a labral tear, that may require surgical repair."]
 
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 8 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 Quadriceps snip
@@ -11981,7 +11969,7 @@ A 70-year-old hispanic female has severe stiffness of her knee following a prima
 Chat Responses:
 ["The medial parapatellar approach would require the least modification of postoperative rehabilitation with regards to weight bearing and range of motion. This approach allows for a good exposure of the knee joint and minimal disruption of the surrounding structures, thus allowing for a quicker recovery and return to weight bearing and range of motion activities."]
 
-=== Results for ShoulderElbow ===
+=== Results for ShoulderElbow, Prompt number : 16 ===
 File: ShoulderElbow
 Correct Answer:
 
@@ -12046,8 +12034,7 @@ Chat Responses:
 ["The patient's symptoms suggest a possible injury to the labrum, specifically a SLAP (Superior Labral tear from Anterior to Posterior) lesion. This injury is common among weightlifters and athletes who perform overhead movements. The SLAP lesion is a tear where the biceps tendon attaches to the labrum in the shoulder joint. The labrum is a type of cartilage found in the shoulder joint that forms a cup for the end of the arm bone (humerus) to"]
 
 
-=== Results for idx 12 ===
-=== Results for AdultReconstructionEvalmanage ===
+=== Results for AdultReconstructionEvalmanage, Prompt number : 0 ===
 File: AdultReconstructionEvalmanage
 Correct Answer:
 cleaning of the trunnion and conversion to a ceramic head with a titanium adaptor sleeve and polyethylene liner exchange.
@@ -12112,7 +12099,6 @@ Chat Responses:
 ["Revision of the femoral head and trunnion only. \n\nThe patient's presentation is consistent with trunnionosis, a form of mechanically assisted crevice corrosion that can occur in metal-on-polyethylene implants. This can lead to adverse local tissue reaction, pain, and elevated metal ion levels in the blood. The treatment for trunnionosis typically involves revision of the femoral head and trunnion, while preserving the well-fixed acetabular and femoral components."]
 
 
-=== Results for idx 13 ===
 Correct Answer:
 Distal femoral varus osteotomy
 Incorrect Options:
@@ -12170,7 +12156,6 @@ Chat Responses:
 ["The most appropriate surgical treatment for this patient is a High Tibial Osteotomy (HTO). The patient has isolated lateral compartment arthritis with a valgus deformity (commonly known as \"knock knee\"), which is a suitable indication for HTO. This procedure involves cutting the bone and realigning it to correct the deformity and redistribute weight from the arthritic part of the knee to the healthier part. It can greatly relieve pain and improve function for patients with unicompartment"]
 
 
-=== Results for idx 14 ===
 Correct Answer:
 Hip arthroscopy versus open debridement with synovectomy
 Incorrect Options:

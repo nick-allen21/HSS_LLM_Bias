@@ -26,7 +26,6 @@ with open(file_path, "r", encoding="utf-8") as file:
 
 formatted_lines = []
 for idx in range(15):
-    formatted_lines.append(f"=== Results for idx {idx} ===")
     entries_for_idx = [entry for entry in data if entry.get("idx") == idx]
 
     if not entries_for_idx:
@@ -43,7 +42,7 @@ for idx in range(15):
             next_file = entry.get("file", "N/A")
             
         if cur_file != next_file or first:
-            formatted_lines.append(f"=== Results for {next_file} ===")
+            formatted_lines.append(f"=== Results for {next_file}, Prompt number : {i} ===")
             formatted_lines.append(f"File: {next_file}")
             cur_file = next_file
             
@@ -84,18 +83,3 @@ print(formatted_text)
 # Save to text
 with open("output.txt", "w", encoding="utf-8") as text_file:
     text_file.write(formatted_text)
-
-# Create PDF
-pdf = FPDF()
-pdf.set_auto_page_break(auto=True, margin=10)  # Enables auto page break
-pdf.set_margins(10, 10, 10)                   # Sets left, top, right margins
-pdf.add_page()
-pdf.set_font("Helvetica", size=12)
-
-for raw_line in formatted_text.split("\n"):
-    # Force breaks in lines that might be too long
-    line = force_word_break(raw_line, max_chars=60)
-    pdf.multi_cell(0, 10, line)
-
-pdf.output("output.pdf")
-print("Saved 'output.txt' and 'output.pdf'.")

@@ -19917,7 +19917,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis is Klippel-Feil Syndrome. This is a rare disorder characterized by the congenital fusion of any two of the seven cervical vertebrae. It is associated with a low posterior hairline, short neck, and limited neck motion. Other associated anomalies may include renal and cardiac abnormalities, but they are not present in all cases."
@@ -20043,7 +20043,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis for this patient is Klippel-Feil Syndrome. This condition is a rare disorder characterized by the congenital fusion of two or more cervical (neck) vertebrae, which is apparent in this patient's CT scan. It is also associated with a low hairline at the back of the head and reduced mobility of the neck. Other common features of this condition can include renal and cardiac anomalies; in this case, the patient has unilateral renal aplasia."
@@ -20169,7 +20169,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis for this patient is Klippel-Feil Syndrome. This is a rare, congenital condition characterized by the fusion of any two of the seven cervical vertebrae. Other common symptoms include a low, posterior hairline, a short neck, and limited neck motion. It is also often associated with other organ defects, such as renal aplasia, as seen in this patient."
@@ -20295,7 +20295,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis is Klippel-Feil syndrome. This is a rare disorder characterized by the congenital fusion of any two of the seven cervical vertebrae. Other common features include a low posterior hairline, short neck, and limited neck motion. Associated abnormalities may include renal and cardiac anomalies. In this case, the patient has unilateral renal aplasia."
@@ -20421,7 +20421,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis for this patient is Klippel-Feil syndrome. This is a rare congenital condition characterized by the fusion of any two of the seven cervical vertebrae. The syndrome is associated with a variety of anomalies including renal anomalies like unilateral renal aplasia. The presence of a low posterior hairline and a short neck further supports this diagnosis."
@@ -20547,7 +20547,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis is Klippel-Feil syndrome. This is a rare, congenital, skeletal disorder characterized by the fusion of at least two vertebrae in the neck. Common signs and symptoms include a low hairline at the back of the head, short neck, and restricted mobility of the upper spine. Associated features can include renal and cardiac abnormalities."
@@ -20673,7 +20673,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis for this patient is Klippel-Feil Syndrome. This is a rare congenital condition characterized by the fusion of any two of the seven cervical vertebrae. Common symptoms include a low posterior hairline, short neck, and limited neck motion. It is also associated with other systemic abnormalities including renal and cardiac anomalies."
@@ -20799,7 +20799,7 @@
       "correct": "Klippel-Feil syndrome",
       "incorrect_1": "Down Syndrome",
       "incorrect_2": "Holt Oram Syndrome",
-      "incorrect_3": NaN,
+      "incorrect_3": "NaN",
       "idx": 6,
       "chat_responses": [
         "The most likely diagnosis for this patient is Klippel-Feil syndrome. This is a rare disorder characterized by the congenital fusion of any two of the seven cervical vertebrae. It is associated with a low posterior hairline, short neck, and limited neck motion. Associated anomalies may include Sprengel deformity, renal anomalies such as unilateral renal aplasia, and congenital heart defects."
