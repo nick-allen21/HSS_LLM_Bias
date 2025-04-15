@@ -108,7 +108,20 @@ for file_name in csv_files:
             # Process only the first 'number_responses' prompts
             for i, original_prompt in enumerate(df["Prompt"]):
                 new_prompt = replace_brackets_with_group(original_prompt, group)
-                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
+                
+                correct_anser = df["Correct answer"][i]
+                incorrect_answer1 = df["Incorrect Answer 1"][i]
+                incorrect_answer2 = df["Incorrect Answer 2"][i] 
+                incorrect_answer3 = df["Incorrect Answer 3"][i]
+                
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Chat_Responses'] = []
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Correct_Answer'] = correct_anser
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_1'] = incorrect_answer1
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_2'] = incorrect_answer2   
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_3'] = incorrect_answer3
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['idx'] = i
+                
+                
                 print(f"Getting LLM responses for : Eval and Manage, {key_name}, {group}, number {i}. \nPrompt : \n{new_prompt} \n")
                 for _ in range(number_responses) : 
                     response = queryLLM(
@@ -117,7 +130,7 @@ for file_name in csv_files:
                         temperature=TEMPERATURE,
                         max_tokens=100
                     )
-                    dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt].append(response)
+                    dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Chat_Responses'].append(response)
                     gc.collect()
     
     elif "diagnosis" in key_name.lower():
@@ -134,6 +147,20 @@ for file_name in csv_files:
             # Process only the first 'number_responses' prompts
             for i, original_prompt in enumerate(df["Prompt"]):
                 new_prompt = replace_brackets_with_group(original_prompt, group)
+                
+                correct_anser = df["Correct answer"][i]
+                incorrect_answer1 = df["Incorrect Answer 1"][i]
+                incorrect_answer2 = df["Incorrect Answer 2"][i] 
+                incorrect_answer3 = df["Incorrect Answer 3"][i]
+                
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Chat_Responses'] = []
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Correct_Answer'] = correct_anser
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_1'] = incorrect_answer1
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_2'] = incorrect_answer2   
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['Incorrect_Answer_3'] = incorrect_answer3
+                dataframes_dict["Eval_Manage"][key_name]["Manufactured_Prompts"][group][new_prompt]['idx'] = i
+                
+                
                 dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt] = []
                 print(f"Getting LLM responses for : Diagnosis, {key_name}, {group}. \nPrompt : \n{new_prompt} \n")
                 for _ in range(number_responses) : 
@@ -143,7 +170,7 @@ for file_name in csv_files:
                         temperature=TEMPERATURE,
                         max_tokens=100
                     )
-                    dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt].append(response)
+                    dataframes_dict["Diagnosis"][key_name]["Manufactured_Prompts"][group][new_prompt]['Chat_Responses'].append(response)
                     gc.collect()
 
 # ---------------------------------------------
